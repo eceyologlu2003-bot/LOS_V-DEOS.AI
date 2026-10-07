@@ -1,7 +1,5 @@
 # Vyra-TR Hook Edition: AI-Powered Micro-Retention Video Editor
 
-> **Vyra-TR**, [usevyra.com](https://usevyra.com) vizyonundan ilham alan ve 100+ puanlık yenilikçi bir mikro-retention kancası (Micro-Retention Hook Engine) sunan tam teşekküllü bir yapay zeka video kurgulama uygulamasıdır.
-
 Ham konuşmacı MP4 videolarınızı yükleyin; sistem arka planda:
 1. **OpenAI Whisper** ile kelime bazlı hassas zaman damgaları çıkarır,
 2. **Librosa** ile RMS akustik enerji eğrisini çıkarıp %80 persentil üstü tepe noktalarını tespit eder,
